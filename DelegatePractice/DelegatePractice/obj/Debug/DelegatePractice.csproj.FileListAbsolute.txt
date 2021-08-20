@@ -1,0 +1,7 @@
+D:\capgemini\training\Practice\DelegatePractice\DelegatePractice\obj\Debug\DelegatePractice.csproj.AssemblyReference.cache
+D:\capgemini\training\Practice\DelegatePractice\DelegatePractice\obj\Debug\DelegatePractice.csproj.CoreCompileInputs.cache
+D:\capgemini\training\Practice\DelegatePractice\DelegatePractice\bin\Debug\DelegatePractice.exe.config
+D:\capgemini\training\Practice\DelegatePractice\DelegatePractice\bin\Debug\DelegatePractice.exe
+D:\capgemini\training\Practice\DelegatePractice\DelegatePractice\bin\Debug\DelegatePractice.pdb
+D:\capgemini\training\Practice\DelegatePractice\DelegatePractice\obj\Debug\DelegatePractice.exe
+D:\capgemini\training\Practice\DelegatePractice\DelegatePractice\obj\Debug\DelegatePractice.pdb

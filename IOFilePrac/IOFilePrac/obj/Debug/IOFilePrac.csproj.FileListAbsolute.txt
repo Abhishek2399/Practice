@@ -1,0 +1,10 @@
+D:\capgemini\training\Practice\IOFilePrac\IOFilePrac\bin\Debug\IOFilePrac.exe.config
+D:\capgemini\training\Practice\IOFilePrac\IOFilePrac\bin\Debug\IOFilePrac.exe
+D:\capgemini\training\Practice\IOFilePrac\IOFilePrac\bin\Debug\IOFilePrac.pdb
+D:\capgemini\training\Practice\IOFilePrac\IOFilePrac\obj\Debug\IOFilePrac.csproj.AssemblyReference.cache
+D:\capgemini\training\Practice\IOFilePrac\IOFilePrac\obj\Debug\IOFilePrac.csproj.CoreCompileInputs.cache
+D:\capgemini\training\Practice\IOFilePrac\IOFilePrac\obj\Debug\IOFilePrac.exe
+D:\capgemini\training\Practice\IOFilePrac\IOFilePrac\obj\Debug\IOFilePrac.pdb
+D:\capgemini\training\Practice\IOFilePrac\IOFilePrac\bin\Debug\Newtonsoft.Json.dll
+D:\capgemini\training\Practice\IOFilePrac\IOFilePrac\bin\Debug\Newtonsoft.Json.xml
+D:\capgemini\training\Practice\IOFilePrac\IOFilePrac\obj\Debug\IOFilePrac.csproj.CopyComplete
