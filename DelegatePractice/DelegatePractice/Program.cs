@@ -46,9 +46,15 @@ namespace DelegatePractice
             name(fullName[0]);
         }
 
-        static void DisplayType(CheckEvenOdd checkMethod, int data)
+        static void CheckEven(CheckEvenOdd checkMethod, int data)
         {
-           
+            Console.WriteLine(checkMethod(data));   
+        }
+
+
+        static void CheckOdd(CheckEvenOdd checkMethod, int data)
+        {
+            Console.WriteLine(checkMethod(data));
         }
 
 
@@ -62,7 +68,11 @@ namespace DelegatePractice
             DisplayName(fullName, abhi);
 
             CheckEvenOdd check = IsEven;
-            DisplayType(check, 2);
+            CheckEven(check, 2);
+
+            check = IsOdd;
+            CheckOdd(check, 2);
+
 
 
         }
