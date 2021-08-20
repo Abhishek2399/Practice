@@ -13,7 +13,6 @@ namespace DelegatePractice
 
 
         delegate void onlyString(string someString);
-        delegate bool CheckEvenOdd(int data);
 
         static void MyName(string name)
         {
@@ -46,13 +45,13 @@ namespace DelegatePractice
             name(fullName[0]);
         }
 
-        static void CheckEven(CheckEvenOdd checkMethod, int data)
+        static void CheckEven(MyDelegates.CheckEvenOdd checkMethod, int data)
         {
             Console.WriteLine(checkMethod(data));   
         }
 
 
-        static void CheckOdd(CheckEvenOdd checkMethod, int data)
+        static void CheckOdd(MyDelegates.CheckEvenOdd checkMethod, int data)
         {
             Console.WriteLine(checkMethod(data));
         }
@@ -67,7 +66,7 @@ namespace DelegatePractice
 
             DisplayName(fullName, abhi);
 
-            CheckEvenOdd check = IsEven;
+            MyDelegates.CheckEvenOdd check = IsEven;
             CheckEven(check, 2);
 
             check = IsOdd;
